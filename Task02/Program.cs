@@ -2,7 +2,7 @@
 int numA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число");
 int numB = Convert.ToInt32(Console.ReadLine());
-if(numA>numB)
+if (numA > numB)
 {
     Console.WriteLine($"Наибольшее число -> {numA}");
 }
